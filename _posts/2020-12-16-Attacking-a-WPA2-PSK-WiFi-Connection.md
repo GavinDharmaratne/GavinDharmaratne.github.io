@@ -12,3 +12,4 @@ I will be using the Airmon-ng and Airodump-ng tools for this phase. The Airmon-n
 
 ![1.png]({{site.baseurl}}/_posts/1.png)
 
+![2.jpg]({{site.baseurl}}/_posts/2.jpg)
